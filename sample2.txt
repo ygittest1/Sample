@@ -1,2 +1,5 @@
 I write this at br1
 This file is sample2.txt.
+
+I write this at master.
+This file is sample2.txt.
