@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I write this at br1.
 This file is sample1.txt.
 =======
 20191104 br1
 >>>>>>> br2
+=======
+20191104 br1
+
+20191104_10 from br1 to push
+>>>>>>> br1
